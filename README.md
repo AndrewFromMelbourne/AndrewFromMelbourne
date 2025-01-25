@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Andrew
-- 👀 I’m interested in Linux/C++, Picosystem/C++, Linux low level graphics, ZigBee
-- 🌱 I’m currently learning the minutiae of Modern C++, Python best practice.
+- 👋 Hi, I’m Andrew.
+- 👀 I’m interested in Linux/C++, Linux low level graphics.
+- 🌱 I’m currently learning the minutiae of Modern C++.
 
 <!---
 AndrewFromMelbourne/AndrewFromMelbourne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
